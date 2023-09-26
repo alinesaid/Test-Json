@@ -15,14 +15,6 @@
       "status": "ACTIVE",
       "phaseCode": "TV",
       "category": "DRUG"
-    },
-    {
-      "projectCode": "R0728",
-      "dxName": "12VNF1",
-      "dxTitle": "Inhibitors of RASG12V NF1",
-      "status": "ACTIVE",
-      "phaseCode": "TV",
-      "category": "DRUG"
     }
   ]
 }

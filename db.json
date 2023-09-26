@@ -23,22 +23,6 @@
       "status": "ACTIVE",
       "phaseCode": "TV",
       "category": "DRUG"
-    },
-    {
-      "projectCode": "D9230",
-      "dxName": "17bHSD",
-      "dxTitle": "Hydroxysteroid 17-beta dehydrogenase 13 (HSD17B13), a liver specific, lipid droplet associated protein",
-      "status": "ACTIVE",
-      "phaseCode": "PH1",
-      "category": "DRUG"
-    },
-    {
-      "projectCode": "R0498",
-      "dxName": "17bHSi ",
-      "dxTitle": "Hydroxysteroid 17-beta dehydrogenase 13 (HSD17B13), a liver specific, lipid droplet associated protein",
-      "status": "ACTIVE",
-      "phaseCode": "LO",
-      "category": "DRUG"
     }
   ]
 }

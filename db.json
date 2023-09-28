@@ -2,7 +2,7 @@
   "data": [
     {
       "projectCode": "D9470",
-      "dxName": "Name: BCKDKS; \nAlineTitle: Reduction of morbidity and mortality by daily oral administration of a  small molecule BCKDK inhibitor in patients with diabetic or non-diabetic HF with Reduced Ejection Fraction (HFrEF)",
+      "dxName": "Name: BCKDKS; \r\nTitle: Reduction of morbidity and mortality by daily oral administration of a  small molecule BCKDK inhibitor in patients with diabetic or non-diabetic HF with Reduced Ejection Fraction (HFrEF)-VaxEquity collaboration for all cross-functional time bookings",
       "dxTitle": "CD123 Topo ADC",
       "status": "ACTIVE",
       "phaseCode": "PH1",
@@ -10,8 +10,8 @@
     },
     {
       "projectCode": "R0656",
-      "dxName": "12DNF1",
-      "dxTitle": "Inhibitors of RAS G12D with NF1",
+      "dxName": "Name: 12DNF1; Title: Inhibitors of RAS G12D with NF1: Development of QW SC GLP-1R/GCGR dual agonist peptide for treatment of T2D, with potential for NASH and obesity indications. \r\n Post-Graduate Research Activities in Personalised Healthcare & Biomarkers (PHB)",
+      "dxTitle": "Inhibitors of RAS G12D with NF1: Development of QW SC GLP-1R/GCGR dual agonist peptide for treatment of T2D, with potential for NASH and obesity indications.",
       "status": "ACTIVE",
       "phaseCode": "TV",
       "category": "DRUG"

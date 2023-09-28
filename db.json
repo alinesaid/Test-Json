@@ -1,17 +1,17 @@
 {
   "data": [
     {
-      "projectCode": "D9470",
-      "dxName": "BCKDKS *** Nonsense suppression therapy will increase readthrough of PKD1, reduce cyst burden and preserve renal function in ADPKD patients",
-      "dxTitle": "CD123 Topo ADC",
+      "projectCode": "R0639",
+      "dxName": "AAVF21 | AAV FGF21 - Transforming the chronic delivery of therapeutic proteins for metabolic diseases",
+      "dxTitle": "AAV FGF21 - Transforming the chronic delivery of therapeutic proteins for metabolic diseases",
       "status": "ACTIVE",
       "phaseCode": "PH1",
       "category": "DRUG"
     },
     {
-      "projectCode": "R0656",
-      "dxName": "12DNF1 *** Development of a leptin receptor (LepR) agonist monoclonal antibody (mAb) to be used in combination or as add-on to drugs inducing weight loss AND resensitizing to leptin, for the treatment of obesity and its complications",
-      "dxTitle": "Development of a leptin receptor (LepR) agonist monoclonal antibody (mAb) to be used in combination or as add-on to drugs inducing weight loss AND resensitizing to leptin, for the treatment of obesity and its complications",
+      "projectCode": "R0715",
+      "dxName": "AmyRsm | Development of an oral AmylinR agonist small molecule allows for FDC oral small molecule therapies with the ability to have bariatric surgery-like weight loss from a well-tolerated oral therapy with end organ protection.",
+      "dxTitle": "Development of an oral AmylinR agonist small molecule allows for FDC oral small molecule therapies with the ability to have bariatric surgery-like weight loss from a well-tolerated oral therapy with end organ protection.",
       "status": "ACTIVE",
       "phaseCode": "TV",
       "category": "DRUG"

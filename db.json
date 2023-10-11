@@ -6,13 +6,13 @@
       "dxName": "AAVF21",
       "dxTitle": "AAV FGF21 - Transforming the chronic delivery of therapeutic proteins for metabolic diseases",
       "status": "aline",
-      "phaseCode": "PH1",
+      "phaseCode": null,
       "category": "DRUG"
     },
     {
       "projectCode": "R0715",
       "DxName&Title": "AmyRsm | Development of an oral AmylinR agonist small molecule allows for FDC oral small molecule therapies with the ability to have bariatric surgery-like weight loss from a well-tolerated oral therapy with end organ protection.",
-      "dxName": "AmyRsm",
+      "dxName": null,
       "dxTitle": "Development of an oral AmylinR agonist small molecule allows for FDC oral small molecule therapies with the ability to have bariatric surgery-like weight loss from a well-tolerated oral therapy with end organ protection.",
       "status": "ACTIVE",
       "phaseCode": "TV",

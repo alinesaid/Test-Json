@@ -5,9 +5,9 @@
       "Project Name": "AAVF21 | AAV FGF21 - Transforming the chronic delivery of therapeutic proteins for metabolic diseases",
       "Dx Name": "Project Name4",
       "Dx Title": "AAV FGF21 - Transforming the chronic delivery of therapeutic proteins for metabolic diseasessd",
-      "status": "Closed-Open4",
+      "status": "Closed",
       "phaseCode": null,
-      "category": "UNKNOWN"
+      "category": "Cat1"
     },
     {
       "Project Code": "R0715102",
@@ -16,7 +16,7 @@
       "Dx Title": "Development of an oral AmylinR agonist small molecule allows for FDC oral small molecule therapies with the ability to have bariatric surgery-like weight loss from a well-tolerated oral therapy with end organ protection.",
       "status": "Active",
       "phaseCode": "TV5",
-      "category": "UNKNOWN"
+      "category": "cat2"
     },
     {
       "Project Code": "R0000",
@@ -34,7 +34,7 @@
       "Dx Title": "Developmentof small molecule.",
       "status": "Active",
       "phaseCode": "UNKNOWN",
-      "category": "UNKNOWN"
+      "category": "cat3"
     }
   ]
 }

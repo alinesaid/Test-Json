@@ -1,28 +1,28 @@
 {
   "data": [
     {
-      "projectCode": "R0639",
-      "DxName&Title": "AAVF21 | AAV FGF21 - Transforming the chronic delivery of therapeutic proteins for metabolic diseases",
-      "dxName": "Project Name4",
-      "dxTitle": "AAV FGF21 - Transforming the chronic delivery of therapeutic proteins for metabolic diseasessd",
+      "Project Code": "R0639",
+      "Project Name": "AAVF21 | AAV FGF21 - Transforming the chronic delivery of therapeutic proteins for metabolic diseases",
+      "Dx Name": "Project Name4",
+      "Dx Title": "AAV FGF21 - Transforming the chronic delivery of therapeutic proteins for metabolic diseasessd",
       "status": "Closed-Open4",
       "phaseCode": null,
       "category": "DRUG"
     },
     {
-      "projectCode": "R0715102",
-      "DxName&Title": "AmyRsm | Development of an oral AmylinR agonist small molecule allows for FDC oral small molecule therapies with the ability to have bariatric surgery-like weight loss from a well-tolerated oral therapy with end organ protection.",
-      "dxName": null,
-      "dxTitle": "Development of an oral AmylinR agonist small molecule allows for FDC oral small molecule therapies with the ability to have bariatric surgery-like weight loss from a well-tolerated oral therapy with end organ protection.",
+      "Project Code": "R0715102",
+      "Project Name": "AmyRsm | Development of an oral AmylinR agonist small molecule allows for FDC oral small molecule therapies with the ability to have bariatric surgery-like weight loss from a well-tolerated oral therapy with end organ protection.",
+      "Dx Name": null,
+      "Dx Title": "Development of an oral AmylinR agonist small molecule allows for FDC oral small molecule therapies with the ability to have bariatric surgery-like weight loss from a well-tolerated oral therapy with end organ protection.",
       "status": "Active",
       "phaseCode": "TV5",
       "category": "testtest"
     },
     {
-      "projectCode": "R0000",
-      "DxName&Title": "AmylinR agonist small molecule allows for FDC oral small molecule therapies with the ability to have bariatric surgery-like weight loss from a well-tolerated oral therapy with end organ protection.",
-      "dxName": null,
-      "dxTitle": "Developmentof small molecule412.",
+      "Project Code": "R0000",
+      "Project Name": "AmylinR agonist small molecule allows for FDC oral small molecule therapies with the ability to have bariatric surgery-like weight loss from a well-tolerated oral therapy with end organ protection.",
+      "Dx Name": null,
+      "Dx Title": "Developmentof small molecule412.",
       "status": "Active",
       "phaseCode": "UNKNOWN",
       "category": "FBP"

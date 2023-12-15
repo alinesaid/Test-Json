@@ -1,34 +1,14 @@
 [
-    {
+  {
       "id": 1,
-      "Sample Name": "AZ14418273-001",
-      "Sample Number": "1177989523",
-      "Compound Name": "AZ14418273",
-      "Compound Mol Wt": "397.38",
-      "Sample Formula Mt": "397.38"
-    },
-    {
+      "title": "Post 1"
+  },
+  {
       "id": 2,
-      "Sample Name": "AZ14418273-001",
-      "Sample Number": "1177989524",
-      "Compound Name": "AZ14418273",
-      "Compound Mol Wt": "397.38",
-      "Sample Formula Mt": "397.38"
-    },
-    {
+      "title": "Post 2"
+  },
+  {
       "id": 3,
-      "Sample Name": "AZ14418273-001",
-      "Sample Number": "1177989524",
-      "Compound Name": "AZ14418273",
-      "Compound Mol Wt": "397.38",
-      "Sample Formula Mt": "397.38"
-    },
-    {
-      "id": 4,
-      "Sample Name": "AZ14418273-001",
-      "Sample Number": "1177989526",
-      "Compound Name": "AZ14418273",
-      "Compound Mol Wt": "397.38",
-      "Sample Formula Mt": "397.38"
-    }
-  ]
+      "title": "Post 3"
+  }
+]
